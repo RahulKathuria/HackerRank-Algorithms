@@ -6,3 +6,4 @@ Following hacker Rank algorithms are solved in C :-
 4. [Find Digits](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Find%20Digits)
 5. [StairCase](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Staircase)
 6. [Grading Students](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Grading%20Students)
+7. [Cut The Sticks](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Cut%20the%20Sticks)
