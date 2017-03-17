@@ -13,3 +13,4 @@ Following hacker Rank algorithms are solved in C :-
 11. [The Hurdle Race](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/The%20Hurdle%20Race)
 12. [Between Two Sets](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Between%20Two%20Sets)
 13. [Designer PDF Viewer](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Designer%20PDF%20Viewer)
+14. [Breaking The Records](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Breaking%20The%20Records)
