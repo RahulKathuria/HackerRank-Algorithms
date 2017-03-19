@@ -17,3 +17,4 @@ Following hacker Rank algorithms are solved in C :-
 15. [Sock Merchant](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Sock%20Merchant)
 16. [Drawing Book](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Drawing%20Book)
 17. [Cats and a Mouse](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Cats%20and%20a%20Mouse)
+18. [Simple Array Sum](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Simple%20Array%20Sum)
