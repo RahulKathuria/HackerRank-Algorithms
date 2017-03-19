@@ -15,3 +15,4 @@ Following hacker Rank algorithms are solved in C :-
 13. [Designer PDF Viewer](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Designer%20PDF%20Viewer)
 14. [Breaking The Records](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Breaking%20The%20Records)
 15. [Sock Merchant](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Sock%20Merchant)
+16. [Drawing Book](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Drawing%20Book)
