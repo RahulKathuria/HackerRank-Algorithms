@@ -19,3 +19,4 @@ Following hacker Rank algorithms are solved in C :-
 17. [Cats and a Mouse](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Cats%20and%20a%20Mouse)
 18. [Simple Array Sum](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Simple%20Array%20Sum)
 19. [Bon Appetit](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Bon%20Appetit)
+20. [Kangaroo](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Kangaroo)
