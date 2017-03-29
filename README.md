@@ -21,8 +21,9 @@ Following hacker Rank algorithms are solved in C :-
 19. [Bon Appetit](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Bon%20Appetit)
 20. [Kangaroo](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Kangaroo)
 21. [Divisible Sum Pairs](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Divisible%20Sum%20Pairs)
-22. [Beautiful Day at Movies](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Beautiful%20Days%20at%20Movies)
-23. [Migratory Birds](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Migratory%20Birds)
+22. [Migratory Birds](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Migratory%20Birds)
+23. [Beautiful Day at Movies](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Beautiful%20Days%20at%20Movies)
+
 
  
 
