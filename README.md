@@ -1,7 +1,7 @@
 # HackerRank-Algorithms
 Following hacker Rank algorithms are solved in C :-
-1. [Utopian Tree](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Utopian%20Tree)
-2. [Angry Professor](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Angry%20Professor)
+1. [Angry Professor](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Angry%20Professor)
+2. [Utopian Tree](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Utopian%20Tree)
 3. [Sherlock and Squares](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Sherlock%20and%20Squares)
 4. [Find Digits](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Find%20Digits)
 5. [StairCase](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Staircase)
@@ -23,7 +23,7 @@ Following hacker Rank algorithms are solved in C :-
 21. [Divisible Sum Pairs](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Divisible%20Sum%20Pairs)
 22. [Beautiful Day at Movies](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Beautiful%20Days%20at%20Movies)
 23. [Migratory Birds](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Migratory%20Birds)
-24. [Birthday Cak Candles](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Birthday%20Cake%20Candles)
+24. [Birthday Cake Candles](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Birthday%20Cake%20Candles)
 
 
  
