@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     int n,min=0,max=0;
     scanf("%d",&n);
