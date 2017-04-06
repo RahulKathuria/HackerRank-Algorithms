@@ -24,6 +24,7 @@ Following hacker Rank algorithms are solved in C :-
 22. [Beautiful Day at Movies](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Beautiful%20Days%20at%20Movies)
 23. [Migratory Birds](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Migratory%20Birds)
 24. [Birthday Cake Candles](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Birthday%20Cake%20Candles)
+25. [Birthday Chocolate](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Birthday%20Chocolate)
 
 
  
