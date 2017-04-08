@@ -1,5 +1,6 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
+
+#include<math.h>
 int main() {
     int s,e,k,n,count=0,r;
     float p,a=0;
