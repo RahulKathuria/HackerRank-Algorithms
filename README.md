@@ -25,7 +25,7 @@ Following hacker Rank algorithms are solved in C :-
 23. [Migratory Birds](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Migratory%20Birds)
 24. [Birthday Cake Candles](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Birthday%20Cake%20Candles)
 25. [Birthday Chocolate](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Birthday%20Chocolate)
-26. [CamelCase](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/CamelCase
+26. [CamelCase](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/CamelCase)
 
 
  
