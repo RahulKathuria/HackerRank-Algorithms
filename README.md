@@ -1,5 +1,5 @@
 # HackerRank-Algorithms
-Following hacker Rank algorithms are solved in C :-
+Following Hacker Rank algorithms are solved in C :-
 1. [Angry Professor](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Angry%20Professor)
 2. [Utopian Tree](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Utopian%20Tree)
 3. [Sherlock and Squares](https://github.com/RahulKathuria/HackerRank-Algorithms/tree/master/Sherlock%20and%20Squares)
